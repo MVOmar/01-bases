@@ -1,5 +1,5 @@
 
 export interface Personaje{
-  nombre:string;
+  nombre: string;
   poder: number;
 }
